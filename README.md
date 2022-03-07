@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fmngg
+👋 Hi, I’m @fmngg
 
 <!--
 - 👀 I’m interested in ...
